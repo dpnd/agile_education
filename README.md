@@ -16,4 +16,4 @@ En este repositorio intentaremos presentar distintas funcionalidades de Github q
 1. [Creando un sitio web con Github](https://dpnd.github.io/agile_education//sitio_web.html)
 1. Bifurcar repositorios
 1. Presentaciones online
-1. Wikis
+1. Wikis (cambiado)
